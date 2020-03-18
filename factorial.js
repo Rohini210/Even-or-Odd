@@ -9,3 +9,7 @@ function facto(number)
 		return number * facto(number - 1);
 	}
 }
+
+/* To run
+	chrome -> inspect -> console -> code -> type ( facto(any number) )
+*/
